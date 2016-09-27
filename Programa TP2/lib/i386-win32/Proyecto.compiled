@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.4\bin\i386-win32\fpc.exe" Date="1189840717"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiD:\Documentos\U.N.S.a\Programacion Numericá\Trabajos Practicos\TP2\Programa TP2\lib\i386-win32&quot; &quot;-FuD:\Documentos\U.N.S.a\Programacion Numericá\Trabajos Practicos\TP2\Programa TP2&quot; &quot;-FUD:\Documentos\U.N.S.a\Programacion Numericá\Trabajos Practicos\TP2\Programa TP2\lib\i386-win32\&quot; Proyecto.lpr"/>
+</CONFIG>
